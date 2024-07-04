@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1093930924917",
+    "project_id": "chatapplication-b27e5",
+    "storage_bucket": "chatapplication-b27e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093930924917:android:c9ef62be0463c4aa4df13c",
+        "android_client_info": {
+          "package_name": "com.chatapp.PushNotifications"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3H7gsl2h3es2DbCLCsb3L5p474l_k2kY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
